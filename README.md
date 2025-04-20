@@ -56,7 +56,7 @@ These visualizations enhanced decision-making by transforming raw data into intu
 
 - Policy Flaws: The “Expedited Rule Clears” policy meant to speed up orders is causing more delays and needs a redesign.
 
-## Recommendations at a Glance
+## Recommendations And Conclusion.
 Improve Driver Performance:
 - Provide one-on-one reviews and targeted route training.
 - Introduce performance incentives and mentorship programs.
@@ -84,5 +84,4 @@ Improve Customer Service:
 Fix Policy Gaps:
 - Review and revise the expedited delivery policy based on performance data.
 
-## Conclusion
-While the company's delivery operations are functional, significant improvement opportunities exist. This includes refining internal policies, upgrading the fleet, enhancing driver professionalism, and improving customer engagement. By addressing both operational and experiential gaps, the company can improve efficiency, reduce delays, and deliver a consistently positive customer experience—thereby strengthening its brand as a trusted, streamlined logistics solutions provider.
+Adopting these recommendations will improve efficiency, reduce delays, and help the company deliver a more reliable and customer-focused service.
