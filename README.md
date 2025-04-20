@@ -34,10 +34,10 @@ The dashboard featured:
 
 - Slicers and dropdown filters to allow users to drill down by date, driver, delivery zone, and transport method.
 
-![Image](https://github.com/user-attachments/assets/9697f249-cc13-416f-beb6-34b54429e3ba)
-
 - Conditional formatting to highlight performance issues such as delays, backlogs, and underperforming drivers.
 
 - Automated refresh features for up-to-date data visualization with every data import.
 
 These visualizations enhanced decision-making by transforming raw data into intuitive, actionable insights tailored to operations and logistics management.
+
+![Image](https://github.com/user-attachments/assets/9697f249-cc13-416f-beb6-34b54429e3ba)
