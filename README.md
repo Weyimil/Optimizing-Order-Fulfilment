@@ -11,19 +11,19 @@ Despite a functional delivery operation, the company faced significant challenge
 The goal of this project was to develop a robust, Excel-based interactive dashboard to streamline order fulfillment and improve decision-making. The dashboard would serve as a central tool for tracking key metrics, optimizing resource deployment, identifying performance bottlenecks, and enhancing communication. Ultimately, the project aimed to eliminate backlogs, reduce delivery delays, and support strategic planning with actionable insights.
 
 # Data Cleaning and Automation Process
-To ensure accuracy and reliability in the analysis, raw logistics data was first cleaned and structured using Excel Power Query. This involved:
+To ensure accuracy and reliability in the analysis, raw logistics data was first cleaned and structured using Excel Power Query. 
 
-Removing duplicates and filtering incomplete or irrelevant records.
+This involved:
+- Removing duplicates and filtering incomplete or irrelevant records.
+- Standardizing date and time formats to calculate delivery durations accurately.
+- Normalizing location and driver data for consistency across entries.
+- Handling missing values through logical imputation and validation.
+- After cleaning, key performance indicators (KPIs) such as order completion rate, average delivery time, and delay frequency were automated using advanced Excel formulas and named ranges.
+- Additionally, Office Scripts were used to auto-generate weekly KPI summary reports with visualizations, streamlining repetitive reporting tasks and saving manual effort.
 
-Standardizing date and time formats to calculate delivery durations accurately.
+  A Figure Below shows a screenshot of the Raw Data.
 
-Normalizing location and driver data for consistency across entries.
-
-Handling missing values through logical imputation and validation.
-
-After cleaning, key performance indicators (KPIs) such as order completion rate, average delivery time, and delay frequency were automated using advanced Excel formulas and named ranges.
-
-Additionally, Office Scripts were used to auto-generate weekly KPI summary reports with visualizations, streamlining repetitive reporting tasks and saving manual effort.
+  ![Image](https://github.com/user-attachments/assets/d84a1483-d576-4b6f-ab10-d10fa87ebc9a)
 
 # Interactive Excel-based Bashboard
 An interactive Excel-based dashboard was developed to present real-time insights into order fulfillment performance. 
